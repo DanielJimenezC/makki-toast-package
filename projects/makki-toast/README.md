@@ -15,11 +15,11 @@
 <div align="center">
   <a href="https://danieljimenezc.github.io/makki-toast/">Website</a> 
   <span> · </span>
-  <a href="https://danieljimenezc.github.io/makki-toast/#/docs">Documentation</a> 
+  <a href="https://danieljimenezc.github.io/makki-toast/docs">Documentation</a> 
 </div>
 <br />
 <div align="center">
-  <sub>Build by <a href="https://daniel-jimenez.tech">Daniel Jimenez</a></sub>
+  <sub>Build by <a href="https://github.com/DanielJimenezC">Daniel Jimenez</a></sub>
 </div>
 <br />
 
@@ -190,4 +190,4 @@ export class DataComponent {
 
 ## Documentation
 
-Find the full documentation on [official documentation](https://danieljimenezc.github.io/makki-toast/#/docs)
+Find the full documentation on [official documentation](https://danieljimenezc.github.io/makki-toast/docs)
