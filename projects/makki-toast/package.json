@@ -1,0 +1,29 @@
+{
+  "name": "makki-toast",
+  "version": "2.0.8",
+  "description": "Easy to use and customizable toast",
+  "author": "Daniel Jimenez <danieljimenezcanales@gmail.com>",
+  "homepage": "https://danieljimenezc.github.io/makki-toast/",
+  "license": "MIT",
+  "repository": "DanielJimenezC/makki-toast-package",
+  "keywords": [
+    "accessible",
+    "alert",
+    "frontend",
+    "makki-toast",
+    "notification",
+    "notify",
+    "angular",
+    "toast",
+    "ui",
+    "web"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^21.0.8",
+    "@angular/core": "^21.0.8"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
